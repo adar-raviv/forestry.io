@@ -1,11 +1,11 @@
 ---
 title: 3 Patterns for Loading Data with React
 description: ''
-date: 2019-02-10 04:00:00 +0000
+date: 2019-02-10T04:00:00.000+00:00
 authors:
 - Nolan Phillips
-publishdate: 2019-02-10 04:00:00 +0000
-expirydate: 2030-01-01 04:00:00 +0000
+publishdate: 2019-02-10T04:00:00.000+00:00
+expirydate: 2030-01-01T04:00:00.000+00:00
 headline: ''
 textline: ''
 images: []
@@ -16,10 +16,10 @@ cta:
   textline: ''
   calls_to_action: []
 private: false
-weight: ''
+weight: 
 aliases: []
+photo_credit: ''
 menu: []
-draft: true
 
 ---
 For the past 3 years, we have been using Typescript and React at [Forestry.io](http://forestry.io). In that time we have used-and-abused many patterns for extracting common behaviour. The three most important patterns used are:
